@@ -1,0 +1,14 @@
+<svg width="100%" viewBox="0 0 680 340" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Noos logo</title>
+<desc>The Noos mark: three interwoven rings (navy anchor, gray balance, coral grace) beside the wordmark.</desc>
+<g transform="translate(60,60) scale(3)">
+  <circle cx="48" cy="60" r="16" fill="none" stroke="#EF6B5C" stroke-width="2.5"/>
+  <circle cx="60" cy="42" r="20" fill="none" stroke="#A1A1AA" stroke-width="3"/>
+  <circle cx="36" cy="42" r="24" fill="none" stroke="#1E3A5F" stroke-width="5"/>
+  <path d="M 55.153 61.404 A 20 20 0 0 1 48.464 58.338" fill="none" stroke="#A1A1AA" stroke-width="3" stroke-linecap="butt"/>
+  <path d="M 34.829 69.084 A 16 16 0 0 1 32.159 62.253" fill="none" stroke="#EF6B5C" stroke-width="2.5" stroke-linecap="butt"/>
+  <path d="M 63.963 58.916 A 16 16 0 0 1 63.422 64.263" fill="none" stroke="#EF6B5C" stroke-width="2.5" stroke-linecap="butt"/>
+</g>
+<text x="360" y="190" fill="#2B2F36" font-family="ui-sans-serif, system-ui, sans-serif" font-size="60" font-weight="500">noos</text>
+<text x="360" y="220" fill="#6B7280" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="500" letter-spacing="1.5">A FRAMEWORK OF AGENTIC MINDS</text>
+</svg>
