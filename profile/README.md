@@ -1,4 +1,4 @@
-# Noos Framework
+# noos - A Framework Of Agentic Minds
 
 **Run specialized AI agents the same way you run services: declared once, invoked over HTTP, sandboxed per call, audited end-to-end.**
 
